@@ -1,5 +1,7 @@
 [Notebook 코드는 Kaggle에 업로드되어있습니다 🙏](https://www.kaggle.com/code/rycont/koquestionbart)
 
+[Pretrained Model은 Huggingface에 업로드되어있습니다 👌](https://huggingface.co/rycont/KoQuestionBART)
+
 # KoBART로 구현하는 Question Generation
 
 독자의 읽기 능력 수준을 평가하는 프로그램을 개발하기 위해, 한국어 문단을 제대로 이해했는지 확인할 수 있는 질문을 생성하는 인공지능을 구현하고자 합니다.
